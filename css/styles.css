@@ -1,0 +1,183 @@
+
+body{
+  margin: 0;
+  text-align: center;
+background-color: powderblue;
+font-family: 'PT sans',cursive;
+font-size: 50;
+}
+
+h1{
+  color: #66bfbf;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento',cursive;
+  font-size: 60px;
+  line-height: 3;
+  }
+  hr{
+    border: dotted;
+    border-color: gray;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+  }
+  a{
+    color: #11999e;
+    font-family: 'montserat',sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+
+  }
+  a:hover{
+    color: #eaf6f6;
+  }
+   .job{
+    color: #66bfbf;
+    font-size: 40px;
+    font-family:'PT sans',cursive; ;
+   }
+p{
+  color: blueviolet;
+  font-size: 20px;
+}
+
+
+h2{
+  color: #66bfbf;
+  padding-bottom: 10px;
+  font-size: 70;
+  font-weight: normal;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  
+} 
+h3{
+  font-family:'Fasthand',cursive ;
+  font-size: medium;
+}
+
+
+.top-container{
+  background-color:powderblue;
+  }
+.top-cloud{
+  height: 200px;
+  width: 400px;
+  margin:0 auto;
+  left: 300px;
+  position: relative;
+  top: 40px;
+  
+}
+  
+.middle-container{
+  background-color:white;
+  margin: 100px 0;
+  
+
+}
+
+.middle-cloud{
+  height: 200px;
+  width: 400px;
+  right: 200px;
+ position: relative;
+ margin: 0 auto;
+
+
+}
+
+  
+.bottom-container{
+  background-color:powderblue;
+
+ }
+ .bottom-mountain{
+  width:50%;
+    margin: 200px auto 200px auto;
+    text-align:center;
+    line-height: 3;
+    bottom: 30%;
+  }
+  .bottom-mountain{
+    width: 60px;
+  }
+
+
+  .skills{
+    width:50%;
+    margin: 200px auto 200px auto;
+    text-align:center;
+    line-height: 3;
+    padding-top: 5%;
+  }
+  
+  .webdevelopment-img{
+    width: 150px;
+    float: left;
+    margin-right: 60px;
+  }
+  .youtube-img{
+    width: 150px;
+    float:right;
+    margin-right: 60px;
+    text-align: left;
+
+  }
+  .contact-me{
+    width: 50%;
+    margin: 200px auto 200px auto;
+    text-align: center;
+    line-height: 3;
+  }
+  .contact-img{
+    width: 150px;
+
+  }
+  .contact-des{
+    width: 70%;
+    margin: auto;
+  }
+  .profile{
+    width: 50%;
+    margin: 200px auto 200px auto;
+    text-align: center;
+    line-height: 3;
+    padding-top: 5%;
+
+  }
+  .my-img{
+    width:150px;
+  }
+h3{
+  clear:left;
+}
+.intro{
+  width: 70%;
+  margin: auto;
+}
+
+
+.buttonClass {
+  font-size:15px;
+  font-family:Times New Roman;
+  width:140px;
+  height:50px;
+  border-width:1px;
+  color:#fff;
+  border-color:#0b0e07;
+  border-top-left-radius:3px;
+  border-top-right-radius:3px;
+  border-bottom-left-radius:3px;
+  border-bottom-right-radius:3px;
+  box-shadow:inset 0px -3px 7px 0px #29bbff;
+  text-shadow:inset 0px 1px 0px #263666;
+  background:linear-gradient(#2dabf9, #0688fa);
+}
+
+.buttonClass:hover {
+  background: linear-gradient(#0688fa, #2dabf9);
+}
+     .copyright{
+      color: #29bbff;
+     }         
